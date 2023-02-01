@@ -1,0 +1,20 @@
+{
+  "name": "uniexplore",
+  "version": "1.0.0",
+  "description": "Website to know more about Universities, opportunities and uni process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git add . && git commit -m 'x' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uniexplore/UniExplore.git"
+  },
+  "author": "Josep Abellana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uniexplore/UniExplore/issues"
+  },
+  "homepage": "https://github.com/Uniexplore/UniExplore#readme"
+}
