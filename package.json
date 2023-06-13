@@ -1,7 +1,7 @@
 {
-  "name": "uniexplore",
+  "name": "OpenTracker",
   "version": "1.0.0",
-  "description": "Website to know more about Universities, opportunities and uni process",
+  "description": "Manage you heritage, investments and all your bank accounts in the same app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Uniexplore/UniExplore.git"
+    "url": "git+https://github.com/AllYourFinanceApp/OpenTracker.git"
   },
   "author": "Josep Abellana",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Uniexplore/UniExplore/issues"
+    "url": "https://github.com/AllYourFinanceApp/OpenTracker/issues"
   },
-  "homepage": "https://github.com/Uniexplore/UniExplore#readme"
+  "homepage": "https://github.com/AllYourFinanceApp/OpenTracker#readme"
 }
