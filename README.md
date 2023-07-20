@@ -4,9 +4,9 @@
 OpenTracker: https://www.openbankingtracker.com/
 Miro board : https://miro.com/welcomeonboard/UFZsZTVVQ3VER3FJTFgzRHIzdVNNcTZlcDduVjdoNGJFSG95Q0Y3enY2RzlBWmZ5Z3lmWjFJajNydzBKU0lLN3wzNDU4NzY0NTI4MDE0MTQyMzg5fDI=?share_link_id=786429819894
 
-PSD2 Account details;
-username: josepabe
-password: *U#JSVzyl&QJ3&7%
+PSD2 Account details
+- username: josepabe
+- password: *U#JSVzyl&QJ3&7%
 
 Open tracker aims to connect all your finances at once.
 
