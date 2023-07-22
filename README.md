@@ -1,5 +1,7 @@
 # OpenTracker
 
+What is needed to make a psd2 api connection: https://developers.bred.fr/pages/psd2/access
+https://developers.bred.fr/pages/psd2/oauth-2
 
 OpenTracker: https://www.openbankingtracker.com/
 
